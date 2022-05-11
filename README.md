@@ -10,11 +10,11 @@ After completing this repository, you will be able to/know about:-
 ***
 ## Django Level One
 * creating a `Virtual Environment`
-* Initialise a django project
-* Initialise django apps
-* Mapping URLs
-* Django Templates
-* Django Static Files
+* Initialise a `django project`
+* Initialise `django apps`
+* `Mapping URLs`
+* Django `Templates`
+* Django `Static Files`
 
 ***
 ## Django Level Two
@@ -29,9 +29,10 @@ After completing this repository, you will be able to/know about:-
 ## Django Level Five
 
 ***
-## My_base
-- To deploy your web application using PythonAnywhere.
+## [My_base](https://github.com/IkshulDureja/django-deployment-example.git)
+* To deploy your web application using PythonAnywhere.
 I have used the project made in Django Level Four and deployed it using PythonAnywhere at [URL]
+PS: I had hosted another repo for this level because I had to use that repo for Deploying my web application.
 
 PS: This repository is a work in progerss. I will keep on updating it as and when I find time.
 Thank you. Would love to hear your feedbacks! 
