@@ -31,4 +31,7 @@ After completing this repository, you will be able to/know about:-
 ***
 ## My_base
 - To deploy your web application using PythonAnywhere.
-I have used the project made in Django Level Four and deployed it using PythonAnywhere at 
+I have used the project made in Django Level Four and deployed it using PythonAnywhere at [URL]
+
+PS: This repository is a work in progerss. I will keep on updating it as and when I find time.
+Thank you. Would love to hear your feedbacks! 
