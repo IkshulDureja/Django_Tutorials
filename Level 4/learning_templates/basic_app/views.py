@@ -1,7 +1,8 @@
-import re
+import requests
 from django.shortcuts import render
 
 # Create your views here.
+
 
 def index(request):
     context_dict={'text':'hello world','number':100}
