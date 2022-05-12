@@ -31,11 +31,17 @@ After completing this repository, you will be able to/know about:-
 
 ***
 ## Django Level Three
-
+* Django Forms
+* Form Validation using following techniques:
+    1.  Botcatcher
+    2. Django's Built-in Validator
+    3. Custom Validators
+    4. Clean Method
 
 ***
 ## Django Level Four
- 
+
+
 ***
 ## Django Level Five
 
@@ -49,4 +55,4 @@ PS: This repository is a work in progerss. I will keep on updating it as and whe
 
 Thank you. Would love to hear your feedbacks and answer any query!
 
-You can reach me @IkshulDureja
+You can reach me [@IkshulDureja](ikshuldureja130@gmail.com)
