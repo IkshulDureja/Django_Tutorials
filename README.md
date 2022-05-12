@@ -8,7 +8,7 @@ I am following [**Python and Django Full Stack Web Developer Bootcamp**](https:/
 
 After completing this repository, you will be able to/know about:-
 ***
-## Django Level One
+## [Django Level One](https://github.com/IkshulDureja/Django_Tutorials/tree/master/Level%201/first_project)
 * Creating a `Virtual Environment`
 * Initialise a `django project`
 * Initialise `django apps`
