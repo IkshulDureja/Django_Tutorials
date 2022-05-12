@@ -1,7 +1,7 @@
 # DJANGO FOR BEGINNERS
 
 This repository is for everyone who is a beginner in Django.
-I am following [**Python and Django Full Stack Web Developer Bootcamp**](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/learn/lecture/6648644#overview) by  Jose Portilla.
+I am following [**Python and Django Full Stack Web Developer Bootcamp**](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/) by  Jose Portilla.
 
 
 *I have included code of each and every project which he has instructed in the course*
@@ -31,13 +31,13 @@ After completing this repository, you will be able to/know about:-
 
 ***
 ## Django Level Three
-* Django Forms (forms.Form class)
-* Form Validation using following techniques:
+* `Django Forms` (forms.Form class in basic_forms project)
+* `Form Validation` using following techniques:
     1.  Botcatcher
     2. Django's Built-in Validator
     3. Custom Validators
     4. Clean Method
-* Model Forms (forms.ModelForm and Meta class)
+* `Model Forms` (forms.ModelForm and Meta class in ProTwo project)
 
 ***
 ## Django Level Four
