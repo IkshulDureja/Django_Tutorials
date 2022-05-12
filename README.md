@@ -9,10 +9,10 @@ I am following [**Python and Django Full Stack Web Developer Bootcamp**](https:/
 After completing this repository, you will be able to/know about:-
 ***
 ## Django Level One
-* creating a `Virtual Environment`
+* Creating a `Virtual Environment`
 * Initialise a `django project`
 * Initialise `django apps`
-* `Mapping URLs`
+* `URL Mapping`
 * Django `Templates`
 * Django `Static Files`
 
