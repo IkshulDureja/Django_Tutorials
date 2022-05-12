@@ -31,12 +31,13 @@ After completing this repository, you will be able to/know about:-
 
 ***
 ## Django Level Three
-* Django Forms
+* Django Forms (forms.Form class)
 * Form Validation using following techniques:
     1.  Botcatcher
     2. Django's Built-in Validator
     3. Custom Validators
     4. Clean Method
+* Model Forms (forms.ModelForm and Meta class)
 
 ***
 ## Django Level Four
