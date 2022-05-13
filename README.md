@@ -41,10 +41,19 @@ After completing this repository, you will be able to/know about:-
 
 ***
 ## Django Level Four
-
+* Template Tagging
+* Relative URL Templates
+* Template Inheritance
+* Template Filters
 
 ***
 ## Django Level Five
+* Using Django Authentication System
+* Password Hashers
+* `User` built-in model
+* `Registration` form(A lot of coding for working with users and authorization happens in the views.py file)
+* `Logins`
+* Media files
 
 ***
 ### [My_base](https://github.com/IkshulDureja/django-deployment-example.git)
@@ -56,4 +65,4 @@ PS: This repository is a work in progerss. I will keep on updating it as and whe
 
 Thank you. Would love to hear your feedbacks and answer any query!
 
-You can reach me [@IkshulDureja](ikshuldureja130@gmail.com)
+You can reach me [@IkshulDureja](https://github.com/IkshulDureja) or @ikshuldureja130@gmail.com
